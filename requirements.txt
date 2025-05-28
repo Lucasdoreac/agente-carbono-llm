@@ -1,7 +1,10 @@
 # Principais dependências
 pandas
 # Adicione aqui bibliotecas de LLM, como langchain, transformers, openai, etc.
-# Exemplo:
-# langchain
-# openai
-# python-dotenv
+pandas
+langchain
+openai
+python-dotenv
+requests
+# Exemplo de ADK: pip install google-adk (se usar o ADK do Google)
+# Adicione outras bibliotecas de LLM, como transformers, etc.
