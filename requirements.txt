@@ -1,0 +1,7 @@
+# Principais dependências
+pandas
+# Adicione aqui bibliotecas de LLM, como langchain, transformers, openai, etc.
+# Exemplo:
+# langchain
+# openai
+# python-dotenv
